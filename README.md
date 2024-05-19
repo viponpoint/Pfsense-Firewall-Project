@@ -25,7 +25,7 @@ This particular project is very straight forward, and one of the reasons why thi
 ## Steps
 Setup Virtual Machine:
 
-Choose a hypervisor (e.g., VMware, VirtualBox, Hyper-V).
+Choose a hypervisor (e.g., VMware, VirtualBox, Hyper-V), and i'm my case, i used the VirtualBox.
 Create a new virtual machine with sufficient resources (CPU, RAM, storage).
 
 Installation of pfSense:
